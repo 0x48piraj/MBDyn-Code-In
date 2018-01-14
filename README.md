@@ -21,3 +21,13 @@ Run-time loading of user-defined modules is leveraged to let users extend the fe
 On GNU/Linux, real-time execution is supported under RTAI, the Real-Time Application Interface, and POSIX tight scheduling.
 
 > MBDyn participated in Google's Summer of Code in 2015, 2016, and 2017; we are eager to participate in future editions.
+
+
+### Task Instance 1 : Get MBDyn running ( FOSSASIA )
+
+**There's currently no any proper Documentation for Installation of MBDyn.**
+
+> Reference : https://www.mbdyn.org/?Documentation
+
+So, I made an **Installation Gist** to make every **MBDyn** Enthusiast's life easier ! :tada:
+
