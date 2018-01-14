@@ -35,3 +35,5 @@ So, I made an **[Installation Gist](https://gist.github.com/0x48piraj/bb436bc8f9
 
 *(will write a blog too, about the difficulties while installing)*
 
+**Note : The Output files are placed in `/Outputs/MBDynTutorials/*`** *(Go and have a look)*
+
