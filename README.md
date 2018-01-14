@@ -1,4 +1,6 @@
 # MBDyn Code-In
+![](https://www.mbdyn.org/userfiles/images/mbdyn.svg)
+
 
 MBDyn is the first and possibly the only free* general purpose Multibody Dynamics analysis software, released under GNU's GPL 2.1.
 
