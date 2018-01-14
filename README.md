@@ -33,5 +33,5 @@ On GNU/Linux, real-time execution is supported under RTAI, the Real-Time Applica
 
 So, I made an **[Installation Gist](https://gist.github.com/0x48piraj/bb436bc8f9333c50aa6f9aa432edbf41)** to make every **MBDyn** Enthusiast's life easier ! :tada:
 
-*(will write a blog too)*
+*(will write a blog too, about the difficulties while installing)*
 
