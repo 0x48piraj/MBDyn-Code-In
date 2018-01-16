@@ -2,8 +2,20 @@
 # Blender Models
 
 
-### Hinge
-![image](https://user-images.githubusercontent.com/5800726/34928487-e583979c-f9e3-11e7-88e2-524cd4fc0a60.png)
+- **Two Rings**
+![Ring 2](https://user-images.githubusercontent.com/5800726/35010054-a013c1f6-fb27-11e7-82c1-75621804b9fd.png)
+- **Gear**
 
-#### Metal Ring (BONUS)
-![image](https://user-images.githubusercontent.com/5800726/34928890-9e23ab6e-f9e6-11e7-9810-dfe50f38bb20.png)
+
+- **FOSSASIA Model**
+![fossasia 3d](https://user-images.githubusercontent.com/5800726/35009926-3bc78ec6-fb27-11e7-83c4-1d9360b1ba7a.png)
+- **Custom Science Centre Logo Model**
+![Science Centre](https://user-images.githubusercontent.com/5800726/35010772-02bb3dd2-fb2a-11e7-83fa-f90998fba097.png)
+- Custom Text Model *(I :heart: FOSSASIA)*
+![0x48piraj](https://user-images.githubusercontent.com/5800726/35010859-469c7746-fb2a-11e7-8fd5-ffc4f4d38570.png)
+
+- ~~Labyrinth Model~~
+
+
+
+
